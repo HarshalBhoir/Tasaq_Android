@@ -1,0 +1,45 @@
+// Top-level build file where you can add configuration options common to all sub-projects/modules.
+buildscript {
+    ext {
+        kotlin_version = '1.2.51'
+        firebase_version = '11.6.0'
+        gradle_version = '3.2.0'
+        play_service='3.2.0'
+    }
+    repositories {
+        google()
+        jcenter()
+        maven {
+            url 'https://maven.fabric.io/public'
+        }
+    }
+    dependencies {
+        classpath "com.android.tools.build:gradle:$gradle_version"
+        classpath "com.google.gms:google-services:$play_service"
+        classpath 'io.fabric.tools:gradle:1.25.4'
+        classpath "org.jetbrains.kotlin:kotlin-gradle-plugin:$kotlin_version"
+        classpath 'com.google.ar.sceneform:plugin:1.8.0'
+    }
+}
+
+
+allprojects {
+    repositories {
+        google()
+
+        jcenter()
+//        google()
+        maven {
+//            url "https://maven.google.com",
+            url 'https://jitpack.io'
+        }
+        maven {
+            url 'https://maven.google.com/'
+        }
+    }
+//    gradle.projectsEvaluated {
+//        tasks.withType(JavaCompile) {
+//            options.compilerArgs << "-Xlint:deprecation"
+//        }
+//    }
+}

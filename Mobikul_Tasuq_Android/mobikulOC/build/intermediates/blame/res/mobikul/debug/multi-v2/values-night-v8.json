@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\merged.dir\\values-night-v8\\values-night-v8.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Deepak\\.gradle\\caches\\transforms-1\\files-1.1\\materialize-0.9.0.aar\\c544281581b3a9f168f4443bbe257520\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,141,263,361,495,573,687,753",
+                        "endColumns": "85,121,97,133,77,113,65,101",
+                        "endOffsets": "136,258,356,490,568,682,748,850"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Deepak\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0.aar\\2dcad3854c25e837d42244b7fa8824f7\\res\\values-night-v8\\values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "120,204,288,384,486,588,682"
+                    },
+                    "to": {
+                        "startLines": "10,11,12,13,14,15,16",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "855,925,1009,1093,1189,1291,1393",
+                        "endColumns": "69,83,83,95,101,101,93",
+                        "endOffsets": "920,1004,1088,1184,1286,1388,1482"
+                    }
+                }
+            ]
+        }
+    ]
+}

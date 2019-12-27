@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\merged.dir\\values-w820dp-v13\\values-w820dp-v13.xml",
+            "map": [
+                {
+                    "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\values-w820dp\\dimens.xml",
+                    "from": {
+                        "startLines": "6,7",
+                        "startColumns": "4,4",
+                        "startOffsets": "304,362",
+                        "endColumns": "57,50",
+                        "endOffsets": "357,408"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,113",
+                        "endColumns": "57,50",
+                        "endOffsets": "108,159"
+                    }
+                }
+            ]
+        }
+    ]
+}

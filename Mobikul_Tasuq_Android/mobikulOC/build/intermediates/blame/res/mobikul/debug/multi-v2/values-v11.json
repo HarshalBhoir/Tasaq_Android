@@ -1,0 +1,20 @@
+{
+    "logs": [
+        {
+            "outputFile": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\merged.dir\\values-v11\\values-v11.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Deepak\\.gradle\\caches\\transforms-1\\files-1.1\\materialize-0.9.0.aar\\c544281581b3a9f168f4443bbe257520\\res\\values-v11\\values-v11.xml",
+                    "from": {
+                        "startLines": "2,8,12,17,23,27,36,41,45,49",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,615,915,1215,1511,1933,2245,2421,2609",
+                        "endLines": "7,11,16,22,26,35,40,44,48,52",
+                        "endColumns": "12,12,12,12,12,12,12,12,12,12",
+                        "endOffsets": "326,610,910,1210,1506,1928,2240,2416,2604,2816"
+                    }
+                }
+            ]
+        }
+    ]
+}

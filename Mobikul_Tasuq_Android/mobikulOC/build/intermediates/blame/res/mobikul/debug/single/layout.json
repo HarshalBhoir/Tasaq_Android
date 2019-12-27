@@ -1,0 +1,578 @@
+[
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_splashscreen.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_splashscreen.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_cart.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_cart.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_return_data.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_return_data.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\sort_item_layout_for_search.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\sort_item_layout_for_search.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_ar.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_ar.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\proceed_to_checkout_dialog.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\proceed_to_checkout_dialog.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\checkout_bottom_sheet.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\checkout_bottom_sheet.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\sub_category_grid.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\sub_category_grid.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_dashboard_my_address.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_dashboard_my_address.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\sort_item_layout_for_manufacture.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\sort_item_layout_for_manufacture.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_billing_address.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_billing_address.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_payment_method.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_payment_method.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_category.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_category.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_dash_board_my_review.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_dash_board_my_review.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\sorter_botttom_sheet.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\sorter_botttom_sheet.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_qr_category.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_qr_category.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\address_dashboard.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\address_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_addr_book.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_addr_book.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\sort_item_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\sort_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\review_order.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\review_order.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_my_downloadable_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_my_downloadable_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\single_layout_brands.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\single_layout_brands.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_links_downloadable_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_links_downloadable_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\my_return_items.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\my_return_items.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\deliveryboy_track.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\deliveryboy_track.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\review_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\review_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\single_filter_parent.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\single_filter_parent.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_cmspage.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_cmspage.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_accountinfo.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_accountinfo.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\ordered_products_inf.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\ordered_products_inf.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\show_ml_dialog.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\show_ml_dialog.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\review_single_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\review_single_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_guest_shipping_address.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_guest_shipping_address.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\gdpr_notification_info_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\gdpr_notification_info_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_product_details2.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_product_details2.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\main_product_single_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\main_product_single_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\point_and_transaction_details.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\point_and_transaction_details.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_product_list_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_product_list_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_other.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_other.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_feature_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_feature_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_dashboard.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\no_internet.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\no_internet.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\table_row_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\table_row_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_my_downloads.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_my_downloads.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_item_twopane.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_item_twopane.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_news_letter.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_news_letter.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_order_placed.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_order_placed.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\mobikul_dialog.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\mobikul_dialog.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_wallet.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_wallet.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_shipping_method.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_shipping_method.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_my_wishlist.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_my_wishlist.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\search_category_item.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\search_category_item.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_option_date_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\custom_option_date_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\footer_menu_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\footer_menu_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\carousal_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\carousal_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_review_details.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_review_details.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_view_pager_example.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_view_pager_example.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\category_filter.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\category_filter.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\table_row.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\table_row.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_return_order_request.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_return_order_request.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\search_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\search_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_order_details.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_order_details.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_subcategory.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_subcategory.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\search_dialog_activity.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\search_dialog_activity.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_new_address.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_new_address.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_review__list.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_review__list.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_view_simple_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\mobikul\\res\\layout\\activity_view_simple_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\view_more_item_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\view_more_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\single_feature.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\single_feature.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_profile.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_profile.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_view_downloadable_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_view_downloadable_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_my_wishlist.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_my_wishlist.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\subcategory_single_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\subcategory_single_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_ebs_payment_success.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_ebs_payment_success.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\delivery_boy_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\delivery_boy_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\home_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\home_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\currency_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\currency_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_camera_with_image.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_camera_with_image.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_view_my_order.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_view_my_order.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\new_address_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\new_address_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\comment_to_orders.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\comment_to_orders.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_cart_total.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_cart_total.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\clickable_toast.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\clickable_toast.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\bottom_navigation.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\bottom_navigation.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\similar_products.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\similar_products.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_viewmore.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_viewmore.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\edit_change_address.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\edit_change_address.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_notification.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_notification.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\checkout_bottom_sheet_address_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\checkout_bottom_sheet_address_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_login.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\mobikul\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\recent_search_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\recent_search_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_my_order.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_my_order.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\left_nav_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\left_nav_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_latest_product.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_latest_product.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\cart_option_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\cart_option_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_option_file_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\custom_option_file_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_myorder.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_myorder.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_shipping_address.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_shipping_address.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\gridhome.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\gridhome.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_base_navigation_drawer.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_base_navigation_drawer.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\become_a_seller.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\become_a_seller.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_notification.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_notification.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\home_product_carousal.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\home_product_carousal.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_product_grid_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_product_grid_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\subcategory_v3theme_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\subcategory_v3theme_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\recent_view_product_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\recent_view_product_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_detail_feature.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_detail_feature.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\view_product_simple_option_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\view_product_simple_option_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\search_product_item_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\search_product_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\single_dashboard_myorders_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\single_dashboard_myorders_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\layout_view_product_small_image_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\layout_view_product_small_image_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\language_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\language_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_guest.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_guest.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_main.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_checkout2.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_checkout2.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_bottom_sheet.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_bottom_sheet.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\feature_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\feature_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\confirmorder_product_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\confirmorder_product_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_create_account.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_create_account.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_my_orders.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_my_orders.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_toast.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\custom_toast.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\search_child_item.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\search_child_item.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_cart.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_cart.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_brower_by_brands.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_brower_by_brands.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_text.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\mobikul\\res\\layout\\custom_text.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_dash_board_new.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_dash_board_new.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_option_time_view.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\custom_option_time_view.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\layout_product_desc_elv.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\layout_product_desc_elv.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_dash_board_my_orders.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_dash_board_my_orders.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\fragment_confirm_order.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\fragment_confirm_order.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_sub_category_v3_theme.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_sub_category_v3_theme.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\subcategory_fragment_list.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\subcategory_fragment_list.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\address_items.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\address_items.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_order_view_page.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\custom_order_view_page.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_view_my_return.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_view_my_return.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\item_view_pager_banner.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\item_view_pager_banner.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\search_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\search_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\recent_search_item_layout.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\recent_search_item_layout.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\view_product_simple_banner.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\view_product_simple_banner.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\choose_category.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\choose_category.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\custom_spinner.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\mobikul\\res\\layout\\custom_spinner.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\filter_dialog.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\filter_dialog.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_sub_category_v4_theme.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_sub_category_v4_theme.xml"
+    },
+    {
+        "merged": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\build\\intermediates\\incremental\\mergeMobikulDebugResources\\stripped.dir\\layout\\activity_file_explorer.xml",
+        "source": "F:\\Personal Projects\\Mobikul_Tasuq_Android\\mobikulOC\\src\\main\\res\\layout\\activity_file_explorer.xml"
+    }
+]
